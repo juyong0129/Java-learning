@@ -2,6 +2,8 @@ package Second;
 
 public class Variable {
     public static void main(String[] args) {
+        //자료형
+
         char ch1 = 'A';
         char ch2 = 65;
         char ch3 = '\uD55C'; //use unicode
